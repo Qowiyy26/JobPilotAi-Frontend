@@ -1,5 +1,5 @@
 {
-  "installCommand": "npm --prefix jobpilotaifrontend install",
-  "buildCommand": "npm --prefix jobpilotaifrontend run build",
+  "installCommand": "npm install --prefix jobpilotaifrontend",
+  "buildCommand": "npm run build --prefix jobpilotaifrontend",
   "outputDirectory": "jobpilotaifrontend/dist"
 }

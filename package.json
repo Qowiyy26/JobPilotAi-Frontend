@@ -1,0 +1,13 @@
+{
+  "name": "jobpilotai-frontend",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix jobpilotaifrontend",
+    "dev": "npm run dev --prefix jobpilotaifrontend",
+    "lint": "npm run lint --prefix jobpilotaifrontend",
+    "preview": "npm run preview --prefix jobpilotaifrontend"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
